@@ -1,54 +1,49 @@
-
 /* Generics */
 
-.column-title{
+.column-title {
     padding-top: 2rem;
     padding-left: 1rem;
     margin: 0;
 }
 
-.column-subtitle{
+.column-subtitle {
     padding: 1rem;
     margin: 0;
 }
 
-.txt-white{
+.txt-white {
     color: white;
 }
 
 /* Header */
 
-.header-title{
+.header-title {
     text-align: center;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
 }
 
-.header-subtitle{
+.header-subtitle {
     text-align: center;
     color: gray;
     padding-bottom: 2rem;
 }
 
-
-
-
-
 /* Debug */
 
-.h-100{
+.h-100 {
     height: 100px;
 }
 
-.bg-lightgray{
-background-color: lightgray;
+.bg-lightgray {
+    background-color: lightgray;
 }
 
-.bg-darkgray{
+.bg-darkgray {
     background-color: gray
 }
 
-.bg-blue{
+.bg-blue {
     background-color: blue;
 }
 
@@ -56,6 +51,18 @@ background-color: lightgray;
     background-color: green;
 }
 
-.bg-red{
+.bg-red {
     background-color: red;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-gold {
+    background-color: gold;
+}
+
+.bg-black {
+    background-color: black;
 }
