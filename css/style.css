@@ -1,10 +1,6 @@
 
 /* Generics */
 
-.h-100{
-    height: 100px;
-}
-
 .column-title{
     padding-top: 2rem;
     padding-left: 1rem;
@@ -40,10 +36,26 @@
 
 /* Debug */
 
+.h-100{
+    height: 100px;
+}
+
 .bg-lightgray{
 background-color: lightgray;
 }
 
 .bg-darkgray{
     background-color: gray
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red{
+    background-color: red;
 }
