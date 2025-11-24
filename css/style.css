@@ -1,0 +1,13 @@
+/* Header */
+
+.header-title{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.header-subtitle{
+    text-align: center;
+    color: gray;
+    padding-bottom: 2rem;
+}
